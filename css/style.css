@@ -340,7 +340,7 @@ p {
     transform: scale(1); } }
 /********Body Sec CSS********/
 .fixed-bg {
-  background: transparent url("../img/mahdi.jpeg") no-repeat;
+  background: transparent url("../img/patteren-3.jpg") no-repeat;
   animation: 60s ease 0s normal none infinite back_ken;
   -webkit-animation: 60s ease 0s normal none infinite back_ken;
   image-rendering: optimizeQuality;
@@ -361,7 +361,7 @@ p {
 }
 
 .fixed-bg-overlay {
-  background: rgba(201, 164, 130, 0.85);
+  background: rgba(63, 46, 28, 0.501);
   height: 100%;
   width: 100%;
   z-index: -1;
