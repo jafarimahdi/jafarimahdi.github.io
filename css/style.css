@@ -1074,7 +1074,8 @@ footer .social-icons-wrap {
       -webkit-transition: transform 0.3s ease 0s;
       transition: transform 0.3s ease 0s; }
       footer .social-icons-wrap .social-icons .social-icon span.fa {
-        line-height: 25px; }
+        line-height: 25px;
+      }
       footer .social-icons-wrap .social-icons .social-icon span:before {
         content: attr(data-hover);
         position: absolute;
